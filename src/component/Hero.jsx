@@ -29,7 +29,7 @@ export default function Hero() {
               </Text>
               <br />
               <Text color={"blue.400"} as={"span"} data-aos="fade-down" data-aos-delay={"800"}>
-                I'm <span style={{ color: "tomato" }}>Muhammad</span> Raihan.
+                I'm <span style={{ color: "tomato" }}>FahrurRozi</span> NA.
               </Text>{" "}
             </Heading>
             <Text fontSize={"xl"} color={"gray.700"} data-aos="zoom-in" data-aos-delay={"1000"}>
@@ -39,7 +39,7 @@ export default function Hero() {
                   'I\'m <span style="color: black">Frontend</span> Developer.',
                   'I\'m <span style="color: red">Backend</span> Developer.',
                   'I\'m <span style="color: green">Fullstack</span> Developer.',
-                  'I\'m <span style="color: gray">Unity</span> Engineer.',
+                
                 ]}
               />
             </Text>
@@ -63,7 +63,7 @@ export default function Hero() {
                   bg: "blue.500",
                 }}
               >
-                Let's get in touch
+                Follow Me In
               </Button>
             </Stack>
             <Stack direction={"row"} spacing={3}>

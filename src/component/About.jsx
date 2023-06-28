@@ -56,7 +56,7 @@ export default function About() {
           </Tooltip>
           <Flex flex={2} gap={{ base: "10", lg: "5" }} direction={"column"} textAlign={{ base: "center", lg: "start" }}>
             <Heading fontSize={{ base: "3xl", lg: "4xl" }} data-aos="zoom-in" data-aos-offset="50" data-aos-delay="300" id="name-typed">
-              Muhammad <span style={{ color: "#4299e1" }}>Raihan</span> Firdaus
+              Ahmad <span style={{ color: "#4299e1" }}>FahrurRozi</span> NA.
             </Heading>
             <Heading fontSize={"xl"} fontWeight={350} textAlign={{ base: "justify", lg: "justify" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="500">
               My name is Muhammad Raihan Firdaus, I currently reside in West Java, Indonesia. I am 16 years old student at SMK Miftahussalam. My passion lies in web development, specifically in both front-end and back-end development, as
