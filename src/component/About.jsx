@@ -59,9 +59,7 @@ export default function About() {
               Ahmad <span style={{ color: "#4299e1" }}>FahrurRozi</span> NA.
             </Heading>
             <Heading fontSize={"xl"} fontWeight={350} textAlign={{ base: "justify", lg: "justify" }} data-aos="fade-left" data-aos-offset="50" data-aos-delay="500">
-              My name is Muhammad Raihan Firdaus, I currently reside in West Java, Indonesia. I am 16 years old student at SMK Miftahussalam. My passion lies in web development, specifically in both front-end and back-end development, as
-              well as game development. I am highly motivated to learn and expand my skills in these fields, and I am always on the lookout for new and exciting projects to work on. In my free time, I enjoy experimenting with various coding
-              languages and frameworks. I am excited to continue pursuing my interests and developing my portfolio in the ever-growing field of web and game development.
+              belum di isi
             </Heading>
             <Box>
               {INFO.map((item) => (

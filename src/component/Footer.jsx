@@ -31,13 +31,13 @@ export default function Footer() {
       <Container as={Stack} maxW={"6xl"} py={4} direction={{ base: "column", md: "row" }} spacing={4} justify={{ base: "center", md: "space-between" }} align={{ base: "center", md: "center" }}>
         <Text>© {new Date().getFullYear()} FahrurRozi. All rights reserved</Text>
         <Stack direction={"row"} spacing={6}>
-          <SocialButton label={"Github"} href={"https://github.com/raihanmd"}>
+          <SocialButton label={"Github"} href={"https://fahrurrozi.vercel.app/"}>
             <FaGithub />
           </SocialButton>
-          <SocialButton label={"YouTube"} href={"https://www.youtube.com/channel/UCT4aPXZrfCaKjYMCSGqUUEQ"}>
+          <SocialButton label={"YouTube"} href={"https://fahrurrozi.vercel.app/"}>
             <FaYoutube />
           </SocialButton>
-          <SocialButton label={"Instagram"} href={"https://www.instagram.com/_raihanmd"}>
+          <SocialButton label={"Instagram"} href={"https://fahrurrozi.vercel.app/"}>
             <FaInstagram />
           </SocialButton>
         </Stack>

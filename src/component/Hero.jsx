@@ -63,7 +63,7 @@ export default function Hero() {
                   bg: "blue.500",
                 }}
               >
-                Follow Me In
+                Follow Me Here 💕
               </Button>
             </Stack>
             <Stack direction={"row"} spacing={3}>
@@ -105,22 +105,22 @@ export default function Hero() {
 const SOCIAL_MEDIA = [
   {
     icon: BsGithub,
-    href: "https://www.github.com/raihanmd",
+    href: "https://fahrurrozi.vercel.app/",
     delay: "1300",
   },
   {
     icon: BsInstagram,
-    href: "https://www.instagram.com/_raihanmd/",
+    href: "https://fahrurrozi.vercel.app/",
     delay: "1400",
   },
   {
     icon: BsTiktok,
-    href: "https://www.tiktok.com/@lynxpengenbisagolang",
+    href: "https://fahrurrozi.vercel.app/",
     delay: "1500",
   },
   {
     icon: BsYoutube,
-    href: "https://www.youtube.com/channel/UCT4aPXZrfCaKjYMCSGqUUEQ",
+    href: "https://fahrurrozi.vercel.app/",
     delay: "1600",
   },
 ];
